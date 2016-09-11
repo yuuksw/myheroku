@@ -1,0 +1,76 @@
+Last login: Mon Sep  5 23:11:50 on ttys000
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ sudo yum -y install git
+Password:
+sudo: yum: command not found
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git -version
+Unknown option: -version
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git -bersion
+Unknown option: -bersion
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git --version
+git version 2.5.4 (Apple Git-61)
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git clone https://github.com/sawasatoyuuki/myheroku.git
+Cloning into 'myheroku'...
+Username for 'https://github.com': yuuksw
+Password for 'https://yuuksw@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/sawasatoyuuki/myheroku.git/'
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git --version
+git version 2.5.4 (Apple Git-61)
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git clone https://github.com/sawasatoyuuki/myheroku.git
+Cloning into 'myheroku'...
+Username for 'https://github.com': yuuksw
+Password for 'https://yuuksw@github.com': 
+remote: Repository not found.
+fatal: repository 'https://github.com/sawasatoyuuki/myheroku.git/' not found
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ git clone https://github.com/yuuksw/myheroku.git
+Cloning into 'myheroku'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+sawasatoyuuakira-no-MacBook-Air:~ sawasatoyuuki$ cd myheroku
+sawasatoyuuakira-no-MacBook-Air:myheroku sawasatoyuuki$ vi hello.txt
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
